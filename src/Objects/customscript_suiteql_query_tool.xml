@@ -1,0 +1,25 @@
+<suitelet scriptid="customscript_suiteql_query_tool">
+  <description>SuiteQL Query Tool V20211027</description>
+  <isinactive>F</isinactive>
+  <name>SuiteQL Query Tool V20211027</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>F</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteScripts/Prolecto/suiteql-query-tool.v20211027.suitelet.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_suiteql_query_tool">
+      <allemployees>F</allemployees>
+      <allpartners>F</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <eventtype></eventtype>
+      <isdeployed>T</isdeployed>
+      <isonline>F</isonline>
+      <loglevel>DEBUG</loglevel>
+      <runasrole>ADMINISTRATOR</runasrole>
+      <status>RELEASED</status>
+      <title>SuiteQL Query Tool</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</suitelet>
