@@ -3,10 +3,10 @@
 <!--        <path>~/AccountConfiguration/*</path>-->
 <!--    </configuration>-->
     <files>
-        <path>~/FileCabinet/*</path>
+        <path>~/FileCabinet/SuiteScripts/Prolecto/suiteql-query-tool.v20211027.suitelet.js</path>
     </files>
     <objects>
-        <path>~/Objects/*</path>
+        <path>~/Objects/customscript_suiteql_query_tool.xml</path>
     </objects>
 <!--    <translationimports>-->
 <!--        <path>~/Translations/*</path>-->
